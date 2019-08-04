@@ -70,14 +70,14 @@ Comparing number of male and female diabetes patients. After performing data vis
 **2.	Patients from different Races.**
 
 Now we are comparing number of diabetes patients belongs to different races. The patients admitted in the hospitals are from different races such as African, American, asian, Caucasian, Hispanic, unknown and others. But after getting results we can say that largest number of patients belongs to Caucasian and least number of patients belongs to Asians. According to the graph, patients who are most admitted in hospitals belonged to races African America and Caucasian. Even some of the patients were not recognized by their races so we mentioned one of the races’ categories as unknown. From this comparison we concluded that Caucasians are mostly get affected from diabetes.
-
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/2.png)
 
 
 **3.	Patiants by different age groups.**
 
 After performing data visualization on different age group, we get the following result. Highest number of diabetics patients are belonged to 70-80. In the ascending order, we can write it in the following order [1-10], [10-20], [20-30], [90-100], [30-40], [40-50], [50-60], [60-70], [70-80], [80-90].
 To represent this comparison, we used to types graphs for better understanding and visualization. From both visualizations, it is represented that people after age 60 are mostly get affected from diabetes. The age group which is less affected from diabetes is 1-10 which includes infants and children.  
-
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/3.png)
 
 
 **4.	Medical Speciality.** 
@@ -88,7 +88,7 @@ After visualization we get the following results.
 2. 18% patients contain steady metformin.
 3. 1% patients contain UP metformin.
 4. 0.4%  patients contain DOWN metformin.
-
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/4.png)
 
 
 **5.	Metformin in patients.**
@@ -99,13 +99,13 @@ Following pie graph gives information about how the metformin can be found the d
 3. 1% patients contain UP metformin.
 4. 0.4%  patients contain DOWN metformin.
 For better visualization of these results we used pie chart. Pie chart is an effective way for representing data in percentage form as it uses to make different sections for representing different percentages. In the following pie chart, we included the percentage of metformin which is found in diabetic patients. From this analysis, we found that very less patients i.e., 0.4% contains metformin and most of the patients i.e., 80% do not contain metformin.
-
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/5.png)
 
 
 **6.	Repaglinide in Patients.**
 
 Following chart represents information of rapaglinide percentage in patients. From this analysis, we found that most of the diabetic patients i.e.,, 98.5% do not contain rapaglinide. We used a pie chart for representing his percentage also.
-
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/6.png)
 
 
 **7.	Insulin in Patients.**
@@ -116,7 +116,7 @@ Following data visualization results represents percentage of patients changed o
 1. 53.8% patients do not changed after treatment.
 2. 46.2% patients changed after treatment.
 So it is clear that more than half patients have not recovered from their disease and only 46.2% patients have improved after treatment.
-
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/7.png)
 
 
 **8.	Changes in Patients.**
@@ -124,7 +124,7 @@ So it is clear that more than half patients have not recovered from their diseas
 Following data visualization results represents percentage of patients diabetes met after treatments.
 1. 23% patients YES after treatment.
 2. 77% patients No after treatment.
-
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/8.png)
 
 
 **9.	DiabetesMed.**
@@ -132,11 +132,14 @@ Following data visualization results represents percentage of patients diabetes 
 Patients who have more than 30% chances to readmit is 34.9%
 Patients who have less than 30% chances to readmit is 11.1%
 Patients who have NO chances to readmit is 53.9%
-
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/9.png)
 
 	
 **10.   Patients by admission types.**
 Now we have visualize data based on the type of admission of the patient get admitted in the hospital. In the dataset admission type Ids are given which represents different type of admissions in the hospital. After visualization we can see that maximum number of patients are admitted in the hospital with emergency code. It means that some people are getting highly affected from this disease and admitted in the hospital for urgent treatment. Man of the patients are also admitted in urgent code which means that they need to start their treatment on urgent bases so that this disease can not affect them highly.
-
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/10.png)
 
 **11. Readmitted.**
+
+Bar graph for comparing readmitted patients.
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/11.png)
