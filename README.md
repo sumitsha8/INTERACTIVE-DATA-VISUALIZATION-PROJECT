@@ -145,10 +145,18 @@ Patients who have NO chances to readmit is 53.9%
 
 	
 ** 10.   Patients by admission types? **
+
 Now we have visualize data based on the type of admission of the patient get admitted in the hospital. In the dataset admission type Ids are given which represents different type of admissions in the hospital. After visualization we can see that maximum number of patients are admitted in the hospital with emergency code. It means that some people are getting highly affected from this disease and admitted in the hospital for urgent treatment. Man of the patients are also admitted in urgent code which means that they need to start their treatment on urgent bases so that this disease can not affect them highly.
 ![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/qqq.png)
 
 ** 11. Patients who have NO chances to readmit? **
 
 Bar graph for comparing readmitted patients.
+
 ![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/11.png)
+
+** 11. Report for different gradiant in blood sample of patients **
+
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot122.png)
+
+
