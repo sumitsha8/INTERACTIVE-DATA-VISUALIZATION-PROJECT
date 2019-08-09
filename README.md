@@ -43,27 +43,27 @@ Below are the tools used to develop the, reports, datasets, design diagrams and 
 
 **Data visualizations based on below analytical questions**:
 
-1.	Number of male and Females.
+1.	Number of Male and Female diabetes patients in US?
 
-2.	Patients from different Races.
+2.	Diabetes Patients from different Races?
 
-3.	Patients by different age groups.
+3.	Diabetes Patients by different age groups?
 
-4.	Medical Speciality. 
+4.	Patients attends by which medical specialist? 
 
-5.	Metformin in patients.
+5.	Metformin found the diabetics patients?
 
-6.	Repaglinide in Patients.
+6.	Repaglinide percentage in patients?
 
-7.	Insulin in Patients.
+7.	Insulin found the diabetics patients?
 
-8.	Changes in Patients.
+8.	Improvement after treatment in patients?
 
-9.	DiabetesMed
+9.	Percentage of patient’s diabetes met after treatments?
 
-10.   Patients by admission types.
+10.   Patients by admission types?
 
-11. Readmitted.
+11.   Patients who have NO chances to readmit?
 
 -------------------------------------------------------------------------------------------------------------------------------
 # Solutions
