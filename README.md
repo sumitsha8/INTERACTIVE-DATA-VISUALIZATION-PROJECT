@@ -73,7 +73,7 @@ Below are the tools used to develop the, reports, datasets, design diagrams and 
 ** 1.	Number of Male and Female diabetes patients in US? **
 
 Comparing number of male and female diabetes patients. After performing data visualization operation we got that females are more affected by the diabetes in comparison to male. Following graph is showing the comparison of male and female patients admitted in the hospital for their treatments. It shows that  mostly females are affected from diabetes. Graph is used for a better visualization of this comparison.
-![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/1.png)
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot1.png)
 
 
 ** 2.	Diabetes Patients from different Races? **
