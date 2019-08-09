@@ -97,7 +97,7 @@ After visualization we get the following results.
 2. 18% patients contain steady metformin.
 3. 1% patients contain UP metformin.
 4. 0.4%  patients contain DOWN metformin.
-![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot4.png)
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot44.png)
 
 
 ** 5.	Metformin found the diabetics patients? **
@@ -125,7 +125,7 @@ Following data visualization results represents percentage of patients changed o
 1. 53.8% patients do not changed after treatment.
 2. 46.2% patients changed after treatment.
 So it is clear that more than half patients have not recovered from their disease and only 46.2% patients have improved after treatment.
-![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot7.png)
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot77.png)
 
 
 ** 8.	Improvement after treatment in patients? **
