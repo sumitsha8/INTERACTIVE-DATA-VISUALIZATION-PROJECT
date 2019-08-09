@@ -125,7 +125,7 @@ Following data visualization results represents percentage of patients changed o
 1. 53.8% patients do not changed after treatment.
 2. 46.2% patients changed after treatment.
 So it is clear that more than half patients have not recovered from their disease and only 46.2% patients have improved after treatment.
-![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/7.png)
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot7.png)
 
 
 ** 8.	Improvement after treatment in patients? **
@@ -133,7 +133,7 @@ So it is clear that more than half patients have not recovered from their diseas
 Following data visualization results represents percentage of patients diabetes met after treatments.
 1. 23% patients YES after treatment.
 2. 77% patients No after treatment.
-![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot8.png)
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/8.png)
 
 
 **9.	Percentage of patient’s diabetes met after treatments? **
