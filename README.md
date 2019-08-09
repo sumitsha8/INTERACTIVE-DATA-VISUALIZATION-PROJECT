@@ -108,7 +108,7 @@ Following pie graph gives information about how the metformin can be found the d
 3. 1% patients contain UP metformin.
 4. 0.4%  patients contain DOWN metformin.
 For better visualization of these results we used pie chart. Pie chart is an effective way for representing data in percentage form as it uses to make different sections for representing different percentages. In the following pie chart, we included the percentage of metformin which is found in diabetic patients. From this analysis, we found that very less patients i.e., 0.4% contains metformin and most of the patients i.e., 80% do not contain metformin.
-![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot5.png)
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot55.png)
 
 
 ** 6.	Repaglinide percentage in patients? **
@@ -146,7 +146,7 @@ Patients who have NO chances to readmit is 53.9%
 	
 ** 10.   Patients by admission types? **
 Now we have visualize data based on the type of admission of the patient get admitted in the hospital. In the dataset admission type Ids are given which represents different type of admissions in the hospital. After visualization we can see that maximum number of patients are admitted in the hospital with emergency code. It means that some people are getting highly affected from this disease and admitted in the hospital for urgent treatment. Man of the patients are also admitted in urgent code which means that they need to start their treatment on urgent bases so that this disease can not affect them highly.
-![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/10.png)
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/qqq.png)
 
 ** 11. Patients who have NO chances to readmit? **
 
