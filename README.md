@@ -61,9 +61,9 @@ Below are the tools used to develop the, reports, datasets, design diagrams and 
 
 9.	Percentage of patient’s diabetes met after treatments
 
-10.     Patients by admission types?
+8.	Patients by admission types?
 
-11.     Patients who have NO chances to readmit?
+9.	Patients who have NO chances to readmit?     
 
 -------------------------------------------------------------------------------------------------------------------------------
 # Solutions
