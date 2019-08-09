@@ -79,14 +79,14 @@ Comparing number of male and female diabetes patients. After performing data vis
 ** 2.	Diabetes Patients from different Races? **
 
 Now we are comparing number of diabetes patients belongs to different races. The patients admitted in the hospitals are from different races such as African, American, asian, Caucasian, Hispanic, unknown and others. But after getting results we can say that largest number of patients belongs to Caucasian and least number of patients belongs to Asians. According to the graph, patients who are most admitted in hospitals belonged to races African America and Caucasian. Even some of the patients were not recognized by their races so we mentioned one of the races’ categories as unknown. From this comparison we concluded that Caucasians are mostly get affected from diabetes.
-![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/2.png)
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot2.png)
 
 
 ** 3.	Diabetes Patients by different age groups?**
 
 After performing data visualization on different age group, we get the following result. Highest number of diabetics patients are belonged to 70-80. In the ascending order, we can write it in the following order [1-10], [10-20], [20-30], [90-100], [30-40], [40-50], [50-60], [60-70], [70-80], [80-90].
 To represent this comparison, we used to types graphs for better understanding and visualization. From both visualizations, it is represented that people after age 60 are mostly get affected from diabetes. The age group which is less affected from diabetes is 1-10 which includes infants and children.  
-![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/3.png)
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot3.png)
 
 
 ** 4.	Patients attends by which medical specialist? ** 
@@ -97,7 +97,7 @@ After visualization we get the following results.
 2. 18% patients contain steady metformin.
 3. 1% patients contain UP metformin.
 4. 0.4%  patients contain DOWN metformin.
-![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/4.png)
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot4.png)
 
 
 ** 5.	Metformin found the diabetics patients? **
