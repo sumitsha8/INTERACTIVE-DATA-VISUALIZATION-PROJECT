@@ -61,35 +61,35 @@ Below are the tools used to develop the, reports, datasets, design diagrams and 
 
 9.	Percentage of patient’s diabetes met after treatments?
 
-10.   Patients by admission types?
+10.     Patients by admission types?
 
-11.   Patients who have NO chances to readmit?
+11.     Patients who have NO chances to readmit?
 
 -------------------------------------------------------------------------------------------------------------------------------
 # Solutions
 -------------------------------------------------------------------------------------------------------------------------------
 
 
-**1.	Number of male and Females.**
+**1.	Number of Male and Female diabetes patients in US? **
 
 Comparing number of male and female diabetes patients. After performing data visualization operation we got that females are more affected by the diabetes in comparison to male. Following graph is showing the comparison of male and female patients admitted in the hospital for their treatments. It shows that  mostly females are affected from diabetes. Graph is used for a better visualization of this comparison.
 ![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/1.png)
 
 
-**2.	Patients from different Races.**
+**2.	Diabetes Patients from different Races? **
 
 Now we are comparing number of diabetes patients belongs to different races. The patients admitted in the hospitals are from different races such as African, American, asian, Caucasian, Hispanic, unknown and others. But after getting results we can say that largest number of patients belongs to Caucasian and least number of patients belongs to Asians. According to the graph, patients who are most admitted in hospitals belonged to races African America and Caucasian. Even some of the patients were not recognized by their races so we mentioned one of the races’ categories as unknown. From this comparison we concluded that Caucasians are mostly get affected from diabetes.
 ![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/2.png)
 
 
-**3.	Patients by different age groups.**
+**3.	Diabetes Patients by different age groups?**
 
 After performing data visualization on different age group, we get the following result. Highest number of diabetics patients are belonged to 70-80. In the ascending order, we can write it in the following order [1-10], [10-20], [20-30], [90-100], [30-40], [40-50], [50-60], [60-70], [70-80], [80-90].
 To represent this comparison, we used to types graphs for better understanding and visualization. From both visualizations, it is represented that people after age 60 are mostly get affected from diabetes. The age group which is less affected from diabetes is 1-10 which includes infants and children.  
 ![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/3.png)
 
 
-**4.	Medical Speciality.** 
+**4.	Patients attends by which medical specialist? ** 
 
 Following graph, gives information about which patients attends by which medical specialist. There are different medical specialists who treated a number of diabetic patients such as endocrinology, Nephrology, odeopath and others. The results of this analysis are shown in the following graph. From this result it is concluded that most of the patients are treated through nephrology specialist.
 After visualization we get the following results.
@@ -100,7 +100,7 @@ After visualization we get the following results.
 ![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/4.png)
 
 
-**5.	Metformin in patients.**
+**5.	Metformin found the diabetics patients? **
 
 Following pie graph gives information about how the metformin can be found the diabetics patients. After visualization we get the following results.
 1. 80% patients do not contain metformin.
@@ -111,13 +111,13 @@ For better visualization of these results we used pie chart. Pie chart is an eff
 ![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/5.png)
 
 
-**6.	Repaglinide in Patients.**
+**6.	Repaglinide percentage in patients? **
 
 Following chart represents information of rapaglinide percentage in patients. From this analysis, we found that most of the diabetic patients i.e.,, 98.5% do not contain rapaglinide. We used a pie chart for representing his percentage also.
 ![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/6.png)
 
 
-**7.	Insulin in Patients.**
+**7.	Insulin found the diabetics patients? **
 
 The followig graph is representing the ratio of insulin that we found in diabetc patients after analsis. From the following graph, it is clear that most of the patients do nt contain insulin. Many of patients are steady with containing insulin.
 Improvement after treatment
@@ -128,7 +128,7 @@ So it is clear that more than half patients have not recovered from their diseas
 ![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/7.png)
 
 
-**8.	Changes in Patients.**
+**8.	Improvement after treatment in patients? **
 
 Following data visualization results represents percentage of patients diabetes met after treatments.
 1. 23% patients YES after treatment.
@@ -136,7 +136,7 @@ Following data visualization results represents percentage of patients diabetes 
 ![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/8.png)
 
 
-**9.	DiabetesMed.**
+**9.	Percentage of patient’s diabetes met after treatments? **
 
 Patients who have more than 30% chances to readmit is 34.9%
 Patients who have less than 30% chances to readmit is 11.1%
@@ -144,11 +144,11 @@ Patients who have NO chances to readmit is 53.9%
 ![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/9.png)
 
 	
-**10.   Patients by admission types.**
+**10.   Patients by admission types? **
 Now we have visualize data based on the type of admission of the patient get admitted in the hospital. In the dataset admission type Ids are given which represents different type of admissions in the hospital. After visualization we can see that maximum number of patients are admitted in the hospital with emergency code. It means that some people are getting highly affected from this disease and admitted in the hospital for urgent treatment. Man of the patients are also admitted in urgent code which means that they need to start their treatment on urgent bases so that this disease can not affect them highly.
 ![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/10.png)
 
-**11. Readmitted.**
+**11. Patients who have NO chances to readmit? **
 
 Bar graph for comparing readmitted patients.
 ![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/11.png)
