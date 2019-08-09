@@ -40,7 +40,7 @@ Below are the tools used to develop the, reports, datasets, design diagrams and 
 4.	Python
 
 
-**Analysis **:------------------------------------------------------------------------------------------------------
+**Data visualizations based on below analytical questions**:----------------------------------------------------------------------------
 
 1.	Number of male and Females.
 
