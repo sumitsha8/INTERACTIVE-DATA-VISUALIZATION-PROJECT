@@ -1,4 +1,4 @@
-# https://github.com/sumitsha8/CA_TWO_Data_Visualization_Project_On_Diabetes_US_Hospital
+# https://github.com/sumitsha8/A2-Diabetes_US_Hospital
 
 **INTERACTIVE DATA VISUALIZATION PROJECT ON DIABETES US HOSPITAL**
 
