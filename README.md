@@ -122,7 +122,7 @@ For better visualization of these results we used pie chart. Pie chart is an eff
 
 Following chart represents information of rapaglinide percentage in patients. From this analysis, we found that most of the diabetic patients i.e.,, 98.5% do not contain rapaglinide. We used a pie chart for representing his percentage also.
 
-![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/6.png)
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot66.png)
 
 
 ** 7.	Insulin found the diabetics patients? **
