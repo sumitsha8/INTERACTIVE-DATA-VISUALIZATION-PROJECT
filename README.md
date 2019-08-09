@@ -39,7 +39,7 @@ Below are the tools used to develop the, reports, datasets, design diagrams and 
 2.	Microsoft Excel (.csv)
 3.	Draw.io
 4.	Python
-5.      GitHub
+5.	GitHub
 
 **Data visualizations based on below analytical questions**:
 
