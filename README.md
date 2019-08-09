@@ -4,7 +4,7 @@
 
 **ASSIGNMENT-2**
 
-MODULE: INTERACTIVE VISUALIZATION
+**MODULE: INTERACTIVE VISUALIZATION**
 
 **TOOLS FOR VISUALIZATION: PYTHON , JUPYTER NOTEBOOK**
 
@@ -46,7 +46,7 @@ Below are the tools used to develop the, reports, datasets, design diagrams and 
 
 2.	Patients from different Races.
 
-3.	Patiants by different age groups.
+3.	Patients by different age groups.
 
 4.	Medical Speciality. 
 
