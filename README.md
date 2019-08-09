@@ -18,7 +18,8 @@ As mentioned in the aim of his assignment i.e., to gain familiarity of implement
 Data from this datasource is visualized in different manners in this assignment. As the datasource contains a number of patients’ details and it is an important information for people so we used to visualize data from this datasource. We used to visualize different dimensions of this data in the assignment for a better understanding of visualization techniques. 
 
 
-**Dataset:  DIABETES US HOSPITAL**------------------------------------------------------------------------------------------------
+**Dataset:  DIABETES US HOSPITAL**
+
 This information has been set up to dissect components identified with readmission just as different results relating to patients with diabetes. 
 The dataset speaks to certain long stretches of clinical consideration at various US medical clinics and incorporated conveyance systems.
 It incorporates more than 50 highlights speaking to patient and medical clinic results. Data was removed from the database for experiences that fulfilled the accompanying criteria. 
@@ -40,7 +41,7 @@ Below are the tools used to develop the, reports, datasets, design diagrams and 
 4.	Python
 
 
-**Data visualizations based on below analytical questions**:----------------------------------------------------------------------------
+**Data visualizations based on below analytical questions**:
 
 1.	Number of male and Females.
 
@@ -81,7 +82,7 @@ Now we are comparing number of diabetes patients belongs to different races. The
 ![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/2.png)
 
 
-**3.	Patiants by different age groups.**
+**3.	Patients by different age groups.**
 
 After performing data visualization on different age group, we get the following result. Highest number of diabetics patients are belonged to 70-80. In the ascending order, we can write it in the following order [1-10], [10-20], [20-30], [90-100], [30-40], [40-50], [50-60], [60-70], [70-80], [80-90].
 To represent this comparison, we used to types graphs for better understanding and visualization. From both visualizations, it is represented that people after age 60 are mostly get affected from diabetes. The age group which is less affected from diabetes is 1-10 which includes infants and children.  
