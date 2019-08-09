@@ -108,7 +108,7 @@ Following pie graph gives information about how the metformin can be found the d
 3. 1% patients contain UP metformin.
 4. 0.4%  patients contain DOWN metformin.
 For better visualization of these results we used pie chart. Pie chart is an effective way for representing data in percentage form as it uses to make different sections for representing different percentages. In the following pie chart, we included the percentage of metformin which is found in diabetic patients. From this analysis, we found that very less patients i.e., 0.4% contains metformin and most of the patients i.e., 80% do not contain metformin.
-![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/5.png)
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot5.png)
 
 
 ** 6.	Repaglinide percentage in patients? **
@@ -133,7 +133,7 @@ So it is clear that more than half patients have not recovered from their diseas
 Following data visualization results represents percentage of patients diabetes met after treatments.
 1. 23% patients YES after treatment.
 2. 77% patients No after treatment.
-![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/8.png)
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot8.png)
 
 
 **9.	Percentage of patient’s diabetes met after treatments? **
