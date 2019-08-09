@@ -31,6 +31,14 @@ The information contains such traits as patient number, race, sexual orientation
 
 Data can be found on https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008#
 
+**Requirements for developing the Visualizations**
+
+Below are the tools used to develop the, reports, datasets, design diagrams and visualizations:
+1.	Microsoft Word
+2.	Microsoft Excel (.csv)
+3.	Draw.io
+4.	Python
+
 
 **Analysis **:------------------------------------------------------------------------------------------------------
 
