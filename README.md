@@ -143,7 +143,7 @@ Following data visualization results represents percentage of patients diabetes 
 1. 23% patients YES after treatment.
 2. 77% patients No after treatment.
 
-![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/8.png)
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot88.png)
 
 
 **9.	Percentage of patient’s diabetes met after treatments? **
@@ -165,7 +165,7 @@ Now we have visualize data based on the type of admission of the patient get adm
 
 Bar graph for comparing readmitted patients found in US.
 
-![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/11.png)
+![](https://github.com/sumitsha8/A2-Diabetes_US_Hospital/blob/master/plot/plot100.png)
 
 ** 12.   Report for different gradiant in blood sample of patients **
 
