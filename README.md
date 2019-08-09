@@ -59,7 +59,7 @@ Below are the tools used to develop the, reports, datasets, design diagrams and 
 
 8.	Improvement after treatment in patients?
 
-9.	Percentage of patient’s diabetes met after treatments?
+9.	Percentage of patient’s diabetes met after treatments
 
 10.     Patients by admission types?
 
